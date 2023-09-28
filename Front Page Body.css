@@ -1,0 +1,12 @@
+html{
+    height: 100%;
+}
+body{
+    /* background-image:url(BG_Images/new_bg_rv.jpg); */
+    height: 100%;
+    border: none;
+    margin: 0px;
+    /* background-position:center; */
+    /* background-repeat: no-repeat; */
+    /* background-size:cover; */
+}
